@@ -1,0 +1,1092 @@
+,PatientID,DoctorID,Specialization
+0,465,226,Obstetric Anesthesiologists
+1,465,226,Cardiology
+2,443,656,Ophthalmology
+3,443,656,Radiology
+4,852,262,Pulmonologists
+5,852,262,Radiology
+6,852,262,Cardiology
+7,160,748,Oncologist
+8,160,748,Surgery
+9,886,580,Internists
+10,480,438,Gastroenterology
+11,634,662,Pediatrics
+12,116,889,Infectious disease
+13,212,460,Emergency Medicine
+14,340,382,Psychiatry
+15,380,856,Oncologist
+16,380,856,Obstetric Anesthesiologists
+17,912,946,Oncologist
+18,582,790,Family Medicine
+19,463,405,Internists
+20,463,405,Obstetric Anesthesiologists
+21,463,405,Infectious disease
+22,849,656,Ophthalmology
+23,849,656,Radiology
+24,694,485,Otolaryngologists
+25,694,485,Critical Care Medicine
+26,694,485,Pediatrics
+27,531,634,Radiology
+28,531,634,Oncologist
+29,531,634,Otolaryngologists
+30,364,509,Pediatrics
+31,364,509,Allergists
+32,323,628,Critical Care Medicine
+33,309,506,Gastroenterology
+34,309,506,Critical Care Medicine
+35,606,113,Radiology
+36,606,113,Infectious disease
+37,606,113,Radiology
+38,447,898,Internists
+39,447,898,Internists
+40,447,898,Anesthesiology
+41,486,902,Geriatrician
+42,541,637,Ophthalmology
+43,619,926,Radiology
+44,619,926,Family Medicine
+45,276,800,Radiology
+46,276,800,Anesthesiology
+47,276,800,Pulmonologists
+48,368,452,Critical Care Medicine
+49,368,452,Critical Care Medicine
+50,368,452,Psychiatry
+51,930,558,Ophthalmology
+52,930,558,Ophthalmology
+53,146,314,Nephrology
+54,519,820,Neurology
+55,519,820,Neurology
+56,961,300,Endocrinologist
+57,142,419,Infectious disease
+58,946,389,Infectious disease
+59,427,851,Infectious disease
+60,427,851,Cardiology
+61,611,899,Endocrinologist
+62,493,811,Dermatology
+63,493,811,Pediatrics
+64,493,811,Geriatrician
+65,919,879,Ophthalmology
+66,919,879,Internists
+67,215,845,Otolaryngologists
+68,215,845,Ophthalmology
+69,122,800,Radiology
+70,122,800,Anesthesiology
+71,122,800,Pulmonologists
+72,445,430,Allergists
+73,326,715,Emergency Medicine
+74,326,715,Obstetric Anesthesiologists
+75,326,715,Hospice and Palliative Care
+76,149,771,Internists
+77,142,650,Oncologist
+78,219,959,Geriatrician
+79,133,505,Pulmonologists
+80,903,497,Ophthalmology
+81,646,334,Gastroenterology
+82,646,334,Internists
+83,709,618,Ophthalmology
+84,709,618,Pediatrics
+85,709,618,Oncologist
+86,374,731,Neurology
+87,330,638,Radiology
+88,330,638,Radiology
+89,330,638,Hospice and Palliative Care
+90,341,117,Otolaryngologists
+91,341,117,Surgery
+92,341,117,Dermatology
+93,341,117,Anesthesiology
+94,341,117,Otolaryngologists
+95,341,117,Geriatrician
+96,448,235,Radiology
+97,683,725,Internists
+98,705,807,Anesthesiology
+99,933,543,Radiology
+100,681,615,Surgery
+101,377,532,Infectious disease
+102,377,532,Surgery
+103,895,597,Geriatrician
+104,779,976,Neurology
+105,454,580,Internists
+106,565,662,Pediatrics
+107,308,255,Nephrology
+108,112,210,Nephrology
+109,362,709,Oncologist
+110,811,564,Allergists
+111,576,363,Gastroenterology
+112,421,633,Cardiology
+113,550,484,Hospice and Palliative Care
+114,938,242,Gastroenterology
+115,206,913,Ophthalmology
+116,994,943,Obstetric Anesthesiologists
+117,994,943,Endocrinologist
+118,395,819,Pediatrics
+119,916,179,Anesthesiology
+120,916,179,Psychiatry
+121,916,179,Psychiatry
+122,649,602,Anesthesiology
+123,178,903,Emergency Medicine
+124,523,202,Pulmonologists
+125,523,202,Otolaryngologists
+126,523,202,Psychiatry
+127,526,347,Psychiatry
+128,221,928,Neurology
+129,437,829,Anesthesiology
+130,437,829,Pediatrics
+131,621,254,Cardiology
+132,555,759,Gastroenterology
+133,561,527,Cardiology
+134,561,527,Ophthalmology
+135,368,801,Dermatology
+136,368,801,Pulmonologists
+137,501,463,Psychiatry
+138,423,213,Hospice and Palliative Care
+139,653,417,Allergists
+140,653,417,Radiology
+141,944,506,Gastroenterology
+142,944,506,Critical Care Medicine
+143,149,501,Psychiatry
+144,154,628,Critical Care Medicine
+145,926,951,Obstetric Anesthesiologists
+146,766,644,Nephrology
+147,515,997,Obstetric Anesthesiologists
+148,986,967,Dermatology
+149,986,967,Gastroenterology
+150,276,754,Anesthesiology
+151,378,787,Otolaryngologists
+152,710,851,Infectious disease
+153,710,851,Cardiology
+154,312,768,Gastroenterology
+155,868,600,Internists
+156,868,600,Geriatrician
+157,868,600,Emergency Medicine
+158,625,678,Infectious disease
+159,625,678,Endocrinologist
+160,882,378,Hospice and Palliative Care
+161,882,378,Ophthalmology
+162,214,158,Nephrology
+163,214,158,Surgery
+164,214,158,Otolaryngologists
+165,284,344,Gastroenterology
+166,284,344,Family Medicine
+167,284,344,Geriatrician
+168,804,341,Oncologist
+169,864,493,Ophthalmology
+170,468,644,Nephrology
+171,870,999,Infectious disease
+172,890,437,Nephrology
+173,890,437,Emergency Medicine
+174,627,947,Endocrinologist
+175,627,947,Otolaryngologists
+176,627,947,Pulmonologists
+177,118,530,Critical Care Medicine
+178,927,449,Infectious disease
+179,927,449,Obstetric Anesthesiologists
+180,579,879,Ophthalmology
+181,579,879,Internists
+182,358,1000,Nephrology
+183,733,667,Geriatrician
+184,468,617,Geriatrician
+185,468,617,Allergists
+186,468,617,Endocrinologist
+187,815,154,Pulmonologists
+188,220,542,Infectious disease
+189,817,936,Neurology
+190,817,936,Obstetric Anesthesiologists
+191,231,277,Internists
+192,304,886,Gastroenterology
+193,304,886,Neurology
+194,473,903,Emergency Medicine
+195,892,501,Psychiatry
+196,342,425,Psychiatry
+197,407,777,Dermatology
+198,407,777,Internists
+199,642,512,Pediatrics
+200,642,512,Gastroenterology
+201,314,542,Infectious disease
+202,158,235,Radiology
+203,148,890,Internists
+204,148,890,Geriatrician
+205,148,890,Ophthalmology
+206,148,890,Family Medicine
+207,790,430,Allergists
+208,374,581,Cardiology
+209,926,170,Oncologist
+210,616,430,Allergists
+211,236,956,Pulmonologists
+212,236,956,Critical Care Medicine
+213,236,956,Neurology
+214,236,956,Surgery
+215,236,956,Critical Care Medicine
+216,775,168,Otolaryngologists
+217,563,551,Allergists
+218,421,479,Critical Care Medicine
+219,844,219,Emergency Medicine
+220,390,250,Pediatrics
+221,959,499,Anesthesiology
+222,959,499,Radiology
+223,940,197,Pulmonologists
+224,940,197,Nephrology
+225,940,197,Pediatrics
+226,764,744,Obstetric Anesthesiologists
+227,305,957,Otolaryngologists
+228,193,530,Critical Care Medicine
+229,119,222,Family Medicine
+230,739,775,Dermatology
+231,739,775,Gastroenterology
+232,870,665,Anesthesiology
+233,278,154,Pulmonologists
+234,338,139,Surgery
+235,168,919,Ophthalmology
+236,373,170,Oncologist
+237,817,574,Infectious disease
+238,173,145,Geriatrician
+239,173,145,Otolaryngologists
+240,736,569,Otolaryngologists
+241,736,569,Pulmonologists
+242,494,658,Oncologist
+243,193,534,Pediatrics
+244,193,534,Psychiatry
+245,193,534,Ophthalmology
+246,193,534,Anesthesiology
+247,270,912,Pediatrics
+248,214,188,Anesthesiology
+249,214,188,Otolaryngologists
+250,689,183,Psychiatry
+251,689,183,Radiology
+252,689,183,Oncologist
+253,185,884,Dermatology
+254,185,884,Oncologist
+255,610,438,Gastroenterology
+256,345,539,Neurology
+257,345,539,Allergists
+258,345,539,Obstetric Anesthesiologists
+259,875,911,Neurology
+260,875,911,Hospice and Palliative Care
+261,339,615,Surgery
+262,396,838,Dermatology
+263,396,838,Geriatrician
+264,103,388,Ophthalmology
+265,103,388,Anesthesiology
+266,450,730,Emergency Medicine
+267,439,480,Infectious disease
+268,128,967,Dermatology
+269,128,967,Gastroenterology
+270,583,344,Gastroenterology
+271,583,344,Family Medicine
+272,583,344,Geriatrician
+273,885,569,Otolaryngologists
+274,885,569,Pulmonologists
+275,832,328,Infectious disease
+276,832,328,Endocrinologist
+277,665,327,Psychiatry
+278,818,640,Radiology
+279,615,191,Neurology
+280,713,403,Hospice and Palliative Care
+281,717,493,Ophthalmology
+282,168,383,Pulmonologists
+283,168,383,Radiology
+284,168,383,Endocrinologist
+285,339,344,Gastroenterology
+286,339,344,Family Medicine
+287,339,344,Geriatrician
+288,213,400,Critical Care Medicine
+289,213,400,Pediatrics
+290,191,792,Anesthesiology
+291,603,619,Allergists
+292,356,929,Obstetric Anesthesiologists
+293,646,254,Cardiology
+294,314,368,Endocrinologist
+295,963,495,Otolaryngologists
+296,963,495,Allergists
+297,963,495,Radiology
+298,191,214,Neurology
+299,191,214,Emergency Medicine
+300,832,619,Allergists
+301,525,524,Endocrinologist
+302,589,365,Infectious disease
+303,589,365,Family Medicine
+304,589,365,Neurology
+305,802,573,Pulmonologists
+306,531,917,Endocrinologist
+307,771,140,Surgery
+308,507,877,Emergency Medicine
+309,507,877,Allergists
+310,645,479,Critical Care Medicine
+311,691,755,Internists
+312,366,940,Ophthalmology
+313,366,940,Emergency Medicine
+314,355,201,Surgery
+315,970,691,Endocrinologist
+316,970,691,Psychiatry
+317,857,362,Internists
+318,857,362,Gastroenterology
+319,857,362,Endocrinologist
+320,313,582,Anesthesiology
+321,701,820,Neurology
+322,701,820,Neurology
+323,157,909,Endocrinologist
+324,865,580,Internists
+325,187,746,Radiology
+326,187,746,Infectious disease
+327,463,542,Infectious disease
+328,792,616,Pulmonologists
+329,583,262,Pulmonologists
+330,583,262,Radiology
+331,583,262,Cardiology
+332,171,439,Gastroenterology
+333,171,439,Ophthalmology
+334,974,929,Obstetric Anesthesiologists
+335,559,912,Pediatrics
+336,691,597,Geriatrician
+337,544,854,Emergency Medicine
+338,371,830,Allergists
+339,371,830,Endocrinologist
+340,238,971,Infectious disease
+341,238,971,Internists
+342,831,488,Geriatrician
+343,862,437,Nephrology
+344,862,437,Emergency Medicine
+345,256,820,Neurology
+346,256,820,Neurology
+347,359,829,Anesthesiology
+348,359,829,Pediatrics
+349,242,129,Gastroenterology
+350,753,637,Ophthalmology
+351,276,197,Pulmonologists
+352,276,197,Nephrology
+353,276,197,Pediatrics
+354,138,930,Family Medicine
+355,138,930,Radiology
+356,480,800,Radiology
+357,480,800,Anesthesiology
+358,480,800,Pulmonologists
+359,143,752,Oncologist
+360,143,752,Allergists
+361,143,752,Surgery
+362,725,430,Allergists
+363,283,155,Pulmonologists
+364,868,615,Surgery
+365,260,637,Ophthalmology
+366,462,420,Family Medicine
+367,307,694,Allergists
+368,307,694,Pulmonologists
+369,385,378,Hospice and Palliative Care
+370,385,378,Ophthalmology
+371,155,314,Nephrology
+372,958,203,Infectious disease
+373,210,994,Oncologist
+374,942,589,Dermatology
+375,644,308,Neurology
+376,503,748,Oncologist
+377,503,748,Surgery
+378,494,181,Pulmonologists
+379,494,181,Neurology
+380,245,932,Otolaryngologists
+381,447,483,Nephrology
+382,447,483,Ophthalmology
+383,827,744,Obstetric Anesthesiologists
+384,854,443,Nephrology
+385,854,443,Cardiology
+386,314,589,Dermatology
+387,831,372,Geriatrician
+388,825,560,Infectious disease
+389,825,560,Oncologist
+390,825,560,Ophthalmology
+391,825,560,Allergists
+392,181,214,Neurology
+393,181,214,Emergency Medicine
+394,428,726,Oncologist
+395,428,726,Allergists
+396,916,991,Dermatology
+397,627,949,Gastroenterology
+398,627,949,Ophthalmology
+399,627,949,Dermatology
+400,627,949,Surgery
+401,630,147,Ophthalmology
+402,630,147,Neurology
+403,630,147,Radiology
+404,630,147,Oncologist
+405,147,363,Gastroenterology
+406,758,202,Pulmonologists
+407,758,202,Otolaryngologists
+408,758,202,Psychiatry
+409,573,218,Geriatrician
+410,292,186,Radiology
+411,990,377,Critical Care Medicine
+412,990,377,Pulmonologists
+413,624,650,Oncologist
+414,190,362,Internists
+415,190,362,Gastroenterology
+416,190,362,Endocrinologist
+417,348,820,Neurology
+418,348,820,Neurology
+419,977,679,Otolaryngologists
+420,478,497,Ophthalmology
+421,735,761,Surgery
+422,663,201,Surgery
+423,525,405,Internists
+424,525,405,Obstetric Anesthesiologists
+425,525,405,Infectious disease
+426,369,746,Radiology
+427,369,746,Infectious disease
+428,135,521,Gastroenterology
+429,135,521,Internists
+430,663,681,Obstetric Anesthesiologists
+431,663,681,Internists
+432,109,105,Emergency Medicine
+433,127,808,Dermatology
+434,127,808,Gastroenterology
+435,656,470,Family Medicine
+436,656,470,Neurology
+437,456,792,Anesthesiology
+438,917,917,Endocrinologist
+439,194,790,Family Medicine
+440,886,791,Allergists
+441,241,651,Family Medicine
+442,241,651,Family Medicine
+443,565,170,Oncologist
+444,266,321,Endocrinologist
+445,214,714,Dermatology
+446,214,714,Internists
+447,214,714,Obstetric Anesthesiologists
+448,815,951,Obstetric Anesthesiologists
+449,120,268,Emergency Medicine
+450,337,452,Critical Care Medicine
+451,337,452,Critical Care Medicine
+452,337,452,Psychiatry
+453,613,548,Critical Care Medicine
+454,613,548,Family Medicine
+455,135,713,Nephrology
+456,135,713,Otolaryngologists
+457,235,226,Obstetric Anesthesiologists
+458,235,226,Cardiology
+459,723,572,Endocrinologist
+460,204,173,Oncologist
+461,204,173,Oncologist
+462,669,421,Emergency Medicine
+463,553,120,Dermatology
+464,697,661,Cardiology
+465,697,661,Anesthesiology
+466,112,926,Radiology
+467,112,926,Family Medicine
+468,892,656,Ophthalmology
+469,892,656,Radiology
+470,331,117,Otolaryngologists
+471,331,117,Surgery
+472,331,117,Dermatology
+473,331,117,Anesthesiology
+474,331,117,Otolaryngologists
+475,331,117,Geriatrician
+476,125,768,Gastroenterology
+477,578,706,Dermatology
+478,103,291,Pulmonologists
+479,867,971,Infectious disease
+480,867,971,Internists
+481,546,975,Allergists
+482,546,975,Obstetric Anesthesiologists
+483,546,975,Hospice and Palliative Care
+484,546,975,Surgery
+485,631,794,Cardiology
+486,282,675,Pediatrics
+487,954,182,Otolaryngologists
+488,717,165,Psychiatry
+489,717,165,Anesthesiology
+490,411,486,Nephrology
+491,411,486,Emergency Medicine
+492,411,486,Geriatrician
+493,576,415,Infectious disease
+494,986,790,Family Medicine
+495,810,888,Dermatology
+496,311,127,Pulmonologists
+497,590,370,Gastroenterology
+498,590,370,Anesthesiology
+499,306,679,Otolaryngologists
+500,933,184,Cardiology
+501,292,760,Oncologist
+502,292,760,Allergists
+503,292,760,Gastroenterology
+504,292,760,Pediatrics
+505,696,744,Obstetric Anesthesiologists
+506,551,706,Dermatology
+507,772,728,Gastroenterology
+508,772,728,Infectious disease
+509,772,728,Hospice and Palliative Care
+510,773,319,Anesthesiology
+511,773,319,Ophthalmology
+512,576,997,Obstetric Anesthesiologists
+513,672,857,Oncologist
+514,518,421,Emergency Medicine
+515,618,209,Oncologist
+516,129,533,Pulmonologists
+517,549,254,Cardiology
+518,122,637,Ophthalmology
+519,813,806,Emergency Medicine
+520,669,296,Cardiology
+521,669,296,Allergists
+522,325,977,Emergency Medicine
+523,325,977,Psychiatry
+524,352,654,Infectious disease
+525,352,654,Otolaryngologists
+526,990,927,Neurology
+527,606,775,Dermatology
+528,606,775,Gastroenterology
+529,843,222,Family Medicine
+530,747,342,Emergency Medicine
+531,482,929,Obstetric Anesthesiologists
+532,226,300,Endocrinologist
+533,792,502,Oncologist
+534,120,599,Anesthesiology
+535,397,140,Surgery
+536,839,426,Emergency Medicine
+537,742,944,Allergists
+538,742,944,Internists
+539,742,944,Ophthalmology
+540,311,752,Oncologist
+541,311,752,Allergists
+542,311,752,Surgery
+543,457,978,Family Medicine
+544,457,978,Emergency Medicine
+545,967,181,Pulmonologists
+546,967,181,Neurology
+547,247,709,Oncologist
+548,561,905,Dermatology
+549,381,617,Geriatrician
+550,381,617,Allergists
+551,381,617,Endocrinologist
+552,485,638,Radiology
+553,485,638,Radiology
+554,485,638,Hospice and Palliative Care
+555,498,931,Otolaryngologists
+556,369,281,Radiology
+557,369,281,Oncologist
+558,136,149,Obstetric Anesthesiologists
+559,689,370,Gastroenterology
+560,689,370,Anesthesiology
+561,372,630,Emergency Medicine
+562,779,189,Family Medicine
+563,779,189,Cardiology
+564,779,189,Internists
+565,485,912,Pediatrics
+566,885,173,Oncologist
+567,885,173,Oncologist
+568,375,889,Infectious disease
+569,364,861,Dermatology
+570,594,563,Geriatrician
+571,850,752,Oncologist
+572,850,752,Allergists
+573,850,752,Surgery
+574,267,129,Gastroenterology
+575,798,399,Anesthesiology
+576,454,611,Gastroenterology
+577,727,626,Infectious disease
+578,188,564,Allergists
+579,112,612,Pediatrics
+580,112,612,Oncologist
+581,112,612,Dermatology
+582,112,612,Oncologist
+583,112,612,Dermatology
+584,449,306,Geriatrician
+585,449,306,Nephrology
+586,142,227,Neurology
+587,142,227,Surgery
+588,955,712,Oncologist
+589,955,712,Internists
+590,955,712,Surgery
+591,619,792,Anesthesiology
+592,545,184,Cardiology
+593,319,203,Infectious disease
+594,798,455,Oncologist
+595,798,455,Otolaryngologists
+596,644,999,Infectious disease
+597,618,942,Ophthalmology
+598,845,468,Radiology
+599,368,243,Surgery
+600,368,243,Family Medicine
+601,279,956,Pulmonologists
+602,279,956,Critical Care Medicine
+603,279,956,Neurology
+604,279,956,Surgery
+605,279,956,Critical Care Medicine
+606,769,427,Obstetric Anesthesiologists
+607,769,427,Emergency Medicine
+608,555,145,Geriatrician
+609,555,145,Otolaryngologists
+610,280,637,Ophthalmology
+611,413,742,Allergists
+612,413,742,Allergists
+613,190,731,Neurology
+614,406,537,Anesthesiology
+615,158,349,Geriatrician
+616,158,349,Endocrinologist
+617,684,603,Pulmonologists
+618,684,603,Cardiology
+619,684,603,Cardiology
+620,684,603,Gastroenterology
+621,457,347,Psychiatry
+622,400,407,Hospice and Palliative Care
+623,404,386,Dermatology
+624,169,477,Infectious disease
+625,982,119,Nephrology
+626,982,119,Hospice and Palliative Care
+627,988,859,Psychiatry
+628,637,118,Otolaryngologists
+629,935,661,Cardiology
+630,935,661,Anesthesiology
+631,229,959,Geriatrician
+632,752,847,Gastroenterology
+633,587,726,Oncologist
+634,587,726,Allergists
+635,431,290,Anesthesiology
+636,195,438,Gastroenterology
+637,198,220,Emergency Medicine
+638,549,956,Pulmonologists
+639,549,956,Critical Care Medicine
+640,549,956,Neurology
+641,549,956,Surgery
+642,549,956,Critical Care Medicine
+643,743,662,Pediatrics
+644,859,688,Otolaryngologists
+645,859,688,Pediatrics
+646,404,548,Critical Care Medicine
+647,404,548,Family Medicine
+648,164,699,Infectious disease
+649,125,256,Hospice and Palliative Care
+650,125,256,Dermatology
+651,125,256,Dermatology
+652,601,476,Surgery
+653,601,476,Cardiology
+654,823,779,Gastroenterology
+655,946,543,Radiology
+656,532,249,Family Medicine
+657,794,995,Neurology
+658,794,995,Anesthesiology
+659,794,995,Psychiatry
+660,850,832,Infectious disease
+661,770,755,Internists
+662,531,379,Hospice and Palliative Care
+663,733,358,Otolaryngologists
+664,447,630,Emergency Medicine
+665,403,861,Dermatology
+666,605,485,Otolaryngologists
+667,605,485,Critical Care Medicine
+668,605,485,Pediatrics
+669,961,692,Internists
+670,961,692,Radiology
+671,676,534,Pediatrics
+672,676,534,Psychiatry
+673,676,534,Ophthalmology
+674,676,534,Anesthesiology
+675,309,534,Pediatrics
+676,309,534,Psychiatry
+677,309,534,Ophthalmology
+678,309,534,Anesthesiology
+679,219,679,Otolaryngologists
+680,750,630,Emergency Medicine
+681,121,155,Pulmonologists
+682,385,688,Otolaryngologists
+683,385,688,Pediatrics
+684,871,759,Gastroenterology
+685,803,734,Otolaryngologists
+686,803,734,Cardiology
+687,803,734,Pulmonologists
+688,170,750,Obstetric Anesthesiologists
+689,902,917,Endocrinologist
+690,238,254,Cardiology
+691,817,792,Anesthesiology
+692,807,450,Family Medicine
+693,807,450,Cardiology
+694,807,450,Pediatrics
+695,120,497,Ophthalmology
+696,954,127,Pulmonologists
+697,821,894,Emergency Medicine
+698,124,750,Obstetric Anesthesiologists
+699,436,161,Gastroenterology
+700,436,161,Hospice and Palliative Care
+701,807,602,Anesthesiology
+702,748,510,Surgery
+703,327,266,Pulmonologists
+704,534,494,Geriatrician
+705,993,593,Pediatrics
+706,993,593,Neurology
+707,993,593,Pediatrics
+708,135,345,Dermatology
+709,135,345,Pediatrics
+710,791,877,Emergency Medicine
+711,791,877,Allergists
+712,184,201,Surgery
+713,720,610,Radiology
+714,785,715,Emergency Medicine
+715,785,715,Obstetric Anesthesiologists
+716,785,715,Hospice and Palliative Care
+717,323,600,Internists
+718,323,600,Geriatrician
+719,323,600,Emergency Medicine
+720,691,984,Gastroenterology
+721,412,189,Family Medicine
+722,412,189,Cardiology
+723,412,189,Internists
+724,354,219,Emergency Medicine
+725,979,224,Emergency Medicine
+726,588,116,Infectious disease
+727,588,116,Anesthesiology
+728,717,245,Surgery
+729,717,245,Infectious disease
+730,717,245,Critical Care Medicine
+731,629,713,Nephrology
+732,629,713,Otolaryngologists
+733,296,625,Endocrinologist
+734,296,625,Anesthesiology
+735,649,459,Pediatrics
+736,649,459,Internists
+737,789,589,Dermatology
+738,593,237,Cardiology
+739,415,605,Ophthalmology
+740,415,605,Surgery
+741,603,785,Radiology
+742,603,785,Hospice and Palliative Care
+743,603,785,Endocrinologist
+744,185,650,Oncologist
+745,475,116,Infectious disease
+746,475,116,Anesthesiology
+747,607,822,Dermatology
+748,607,822,Nephrology
+749,704,334,Gastroenterology
+750,704,334,Internists
+751,473,899,Endocrinologist
+752,469,925,Allergists
+753,469,925,Critical Care Medicine
+754,953,558,Ophthalmology
+755,953,558,Ophthalmology
+756,783,642,Otolaryngologists
+757,436,427,Obstetric Anesthesiologists
+758,436,427,Emergency Medicine
+759,845,151,Internists
+760,317,321,Endocrinologist
+761,349,218,Geriatrician
+762,187,163,Critical Care Medicine
+763,187,163,Emergency Medicine
+764,882,494,Geriatrician
+765,427,547,Emergency Medicine
+766,383,640,Radiology
+767,514,294,Allergists
+768,628,332,Neurology
+769,628,332,Radiology
+770,552,691,Endocrinologist
+771,552,691,Psychiatry
+772,678,607,Internists
+773,368,407,Hospice and Palliative Care
+774,706,607,Internists
+775,621,101,Allergists
+776,276,947,Endocrinologist
+777,276,947,Otolaryngologists
+778,276,947,Pulmonologists
+779,586,284,Oncologist
+780,586,284,Surgery
+781,586,284,Endocrinologist
+782,435,644,Nephrology
+783,196,543,Radiology
+784,972,495,Otolaryngologists
+785,972,495,Allergists
+786,972,495,Radiology
+787,427,536,Geriatrician
+788,749,605,Ophthalmology
+789,749,605,Surgery
+790,586,852,Obstetric Anesthesiologists
+791,435,239,Internists
+792,859,434,Otolaryngologists
+793,164,559,Otolaryngologists
+794,635,499,Anesthesiology
+795,635,499,Radiology
+796,839,924,Surgery
+797,839,924,Ophthalmology
+798,386,999,Infectious disease
+799,647,785,Radiology
+800,647,785,Hospice and Palliative Care
+801,647,785,Endocrinologist
+802,650,129,Gastroenterology
+803,843,254,Cardiology
+804,890,165,Psychiatry
+805,890,165,Anesthesiology
+806,788,909,Endocrinologist
+807,613,547,Emergency Medicine
+808,150,556,Surgery
+809,150,556,Anesthesiology
+810,150,556,Critical Care Medicine
+811,538,179,Anesthesiology
+812,538,179,Psychiatry
+813,538,179,Psychiatry
+814,574,757,Neurology
+815,574,757,Neurology
+816,574,757,Psychiatry
+817,564,789,Pulmonologists
+818,151,247,Internists
+819,151,247,Oncologist
+820,151,247,Nephrology
+821,197,639,Pediatrics
+822,197,639,Surgery
+823,138,153,Radiology
+824,864,305,Nephrology
+825,452,722,Obstetric Anesthesiologists
+826,590,527,Cardiology
+827,590,527,Ophthalmology
+828,554,145,Geriatrician
+829,554,145,Otolaryngologists
+830,150,618,Ophthalmology
+831,150,618,Pediatrics
+832,150,618,Oncologist
+833,705,605,Ophthalmology
+834,705,605,Surgery
+835,724,668,Infectious disease
+836,735,993,Oncologist
+837,735,993,Hospice and Palliative Care
+838,441,742,Allergists
+839,441,742,Allergists
+840,166,696,Endocrinologist
+841,166,288,Endocrinologist
+842,166,288,Radiology
+843,166,288,Cardiology
+844,101,151,Internists
+845,820,615,Surgery
+846,689,399,Anesthesiology
+847,466,417,Allergists
+848,466,417,Radiology
+849,864,432,Critical Care Medicine
+850,914,444,Internists
+851,914,444,Surgery
+852,956,586,Gastroenterology
+853,956,586,Geriatrician
+854,228,790,Family Medicine
+855,410,156,Infectious disease
+856,410,156,Emergency Medicine
+857,372,170,Oncologist
+858,375,908,Surgery
+859,925,629,Pulmonologists
+860,594,411,Psychiatry
+861,235,232,Geriatrician
+862,119,242,Gastroenterology
+863,525,363,Gastroenterology
+864,635,558,Ophthalmology
+865,635,558,Ophthalmology
+866,142,474,Endocrinologist
+867,531,489,Nephrology
+868,724,463,Psychiatry
+869,493,530,Critical Care Medicine
+870,628,845,Otolaryngologists
+871,628,845,Ophthalmology
+872,519,221,Surgery
+873,519,221,Emergency Medicine
+874,168,355,Pediatrics
+875,168,355,Pediatrics
+876,961,119,Nephrology
+877,961,119,Hospice and Palliative Care
+878,965,260,Gastroenterology
+879,806,791,Allergists
+880,389,799,Pulmonologists
+881,448,112,Pediatrics
+882,304,117,Otolaryngologists
+883,304,117,Surgery
+884,304,117,Dermatology
+885,304,117,Anesthesiology
+886,304,117,Otolaryngologists
+887,304,117,Geriatrician
+888,281,452,Critical Care Medicine
+889,281,452,Critical Care Medicine
+890,281,452,Psychiatry
+891,984,602,Anesthesiology
+892,827,492,Cardiology
+893,827,492,Surgery
+894,731,340,Infectious disease
+895,366,607,Internists
+896,936,284,Oncologist
+897,936,284,Surgery
+898,936,284,Endocrinologist
+899,658,373,Ophthalmology
+900,658,373,Endocrinologist
+901,626,162,Geriatrician
+902,626,162,Otolaryngologists
+903,864,371,Allergists
+904,390,798,Allergists
+905,683,527,Cardiology
+906,683,527,Ophthalmology
+907,886,226,Obstetric Anesthesiologists
+908,886,226,Cardiology
+909,859,340,Infectious disease
+910,636,965,Obstetric Anesthesiologists
+911,249,667,Geriatrician
+912,890,715,Emergency Medicine
+913,890,715,Obstetric Anesthesiologists
+914,890,715,Hospice and Palliative Care
+915,816,648,Psychiatry
+916,126,844,Obstetric Anesthesiologists
+917,725,750,Obstetric Anesthesiologists
+918,312,895,Radiology
+919,312,895,Psychiatry
+920,653,908,Surgery
+921,505,574,Infectious disease
+922,318,611,Gastroenterology
+923,963,140,Surgery
+924,613,120,Dermatology
+925,332,628,Critical Care Medicine
+926,717,800,Radiology
+927,717,800,Anesthesiology
+928,717,800,Pulmonologists
+929,340,628,Critical Care Medicine
+930,123,408,Nephrology
+931,199,151,Internists
+932,254,188,Anesthesiology
+933,254,188,Otolaryngologists
+934,131,944,Allergists
+935,131,944,Internists
+936,131,944,Ophthalmology
+937,775,915,Pulmonologists
+938,775,915,Endocrinologist
+939,669,642,Otolaryngologists
+940,339,777,Dermatology
+941,339,777,Internists
+942,691,481,Dermatology
+943,909,355,Pediatrics
+944,909,355,Pediatrics
+945,829,750,Obstetric Anesthesiologists
+946,881,794,Cardiology
+947,446,539,Neurology
+948,446,539,Allergists
+949,446,539,Obstetric Anesthesiologists
+950,641,959,Geriatrician
+951,692,342,Emergency Medicine
+952,853,778,Dermatology
+953,778,129,Gastroenterology
+954,976,361,Pediatrics
+955,828,108,Surgery
+956,156,975,Allergists
+957,156,975,Obstetric Anesthesiologists
+958,156,975,Hospice and Palliative Care
+959,156,975,Surgery
+960,854,828,Neurology
+961,854,828,Allergists
+962,257,925,Allergists
+963,257,925,Critical Care Medicine
+964,293,997,Obstetric Anesthesiologists
+965,553,419,Infectious disease
+966,734,509,Pediatrics
+967,734,509,Allergists
+968,551,849,Family Medicine
+969,551,849,Infectious disease
+970,514,605,Ophthalmology
+971,514,605,Surgery
+972,404,914,Pediatrics
+973,800,147,Ophthalmology
+974,800,147,Neurology
+975,800,147,Radiology
+976,800,147,Oncologist
+977,849,528,Gastroenterology
+978,849,528,Neurology
+979,631,170,Oncologist
+980,236,348,Anesthesiology
+981,830,502,Oncologist
+982,696,275,Allergists
+983,967,828,Neurology
+984,967,828,Allergists
+985,908,557,Internists
+986,896,964,Critical Care Medicine
+987,896,964,Otolaryngologists
+988,101,277,Internists
+989,802,434,Otolaryngologists
+990,796,261,Gastroenterology
+991,503,207,Otolaryngologists
+992,700,775,Dermatology
+993,700,775,Gastroenterology
+994,443,630,Emergency Medicine
+995,231,119,Nephrology
+996,231,119,Hospice and Palliative Care
+997,272,427,Obstetric Anesthesiologists
+998,272,427,Emergency Medicine
+999,409,237,Cardiology
+1000,676,558,Ophthalmology
+1001,676,558,Ophthalmology
+1002,996,522,Dermatology
+1003,180,776,Otolaryngologists
+1004,645,704,Infectious disease
+1005,294,464,Internists
+1006,294,464,Emergency Medicine
+1007,701,860,Critical Care Medicine
+1008,756,802,Allergists
+1009,756,802,Pulmonologists
+1010,966,521,Gastroenterology
+1011,966,521,Internists
+1012,916,521,Gastroenterology
+1013,916,521,Internists
+1014,508,453,Obstetric Anesthesiologists
+1015,508,453,Geriatrician
+1016,508,453,Geriatrician
+1017,746,533,Pulmonologists
+1018,255,828,Neurology
+1019,255,828,Allergists
+1020,226,117,Otolaryngologists
+1021,226,117,Surgery
+1022,226,117,Dermatology
+1023,226,117,Anesthesiology
+1024,226,117,Otolaryngologists
+1025,226,117,Geriatrician
+1026,128,115,Endocrinologist
+1027,128,115,Nephrology
+1028,281,522,Dermatology
+1029,105,201,Surgery
+1030,423,938,Pulmonologists
+1031,903,153,Radiology
+1032,539,566,Surgery
+1033,539,566,Allergists
+1034,539,566,Family Medicine
+1035,539,566,Dermatology
+1036,301,759,Gastroenterology
+1037,715,802,Allergists
+1038,715,802,Pulmonologists
+1039,148,777,Dermatology
+1040,148,777,Internists
+1041,526,145,Geriatrician
+1042,526,145,Otolaryngologists
+1043,754,916,Ophthalmology
+1044,754,916,Pulmonologists
+1045,707,744,Obstetric Anesthesiologists
+1046,945,459,Pediatrics
+1047,945,459,Internists
+1048,947,488,Geriatrician
+1049,511,831,Cardiology
+1050,511,831,Internists
+1051,511,831,Hospice and Palliative Care
+1052,337,411,Psychiatry
+1053,127,427,Obstetric Anesthesiologists
+1054,127,427,Emergency Medicine
+1055,324,329,Neurology
+1056,540,667,Geriatrician
+1057,630,400,Critical Care Medicine
+1058,630,400,Pediatrics
+1059,783,155,Pulmonologists
+1060,155,494,Geriatrician
+1061,285,274,Ophthalmology
+1062,285,274,Neurology
+1063,313,708,Surgery
+1064,313,708,Infectious disease
+1065,861,425,Psychiatry
+1066,631,830,Allergists
+1067,631,830,Endocrinologist
+1068,783,322,Otolaryngologists
+1069,787,770,Emergency Medicine
+1070,447,439,Gastroenterology
+1071,447,439,Ophthalmology
+1072,758,570,Family Medicine
+1073,961,688,Otolaryngologists
+1074,961,688,Pediatrics
+1075,465,355,Pediatrics
+1076,465,355,Pediatrics
+1077,295,213,Hospice and Palliative Care
+1078,900,618,Ophthalmology
+1079,900,618,Pediatrics
+1080,900,618,Oncologist
+1081,101,100,Emergency Medicine
+1082,101,100,Surgery
+1083,174,683,Ophthalmology
+1084,750,267,Emergency Medicine
+1085,663,914,Pediatrics
+1086,386,860,Critical Care Medicine
+1087,784,599,Anesthesiology
+1088,575,399,Anesthesiology
+1089,674,101,Allergists
+1090,152,309,Pediatrics
